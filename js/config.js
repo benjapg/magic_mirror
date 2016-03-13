@@ -9,11 +9,11 @@ var config = {
         //change weather params here:
         //units: metric or imperial
         params: {
-            q: 'Baarn,Netherlands',
-            units: 'metric',
+            q: 'Rockwall, TX',
+            units: 'imperial',
             // if you want a different lang for the weather that what is set above, change it here
             lang: 'nl',
-            APPID: 'YOUR_FREE_OPENWEATHER_API_KEY'
+            APPID: 'e450581a8089816adea9c807521f0284'
         }
     },
     compliments: {
