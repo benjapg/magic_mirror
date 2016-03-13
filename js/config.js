@@ -2,7 +2,7 @@ var config = {
     lang: 'nl',
     time: {
         timeFormat: 12,
-        displaySeconds: true,
+        displaySeconds: false,
         digitFade: false,
     },
     weather: {
